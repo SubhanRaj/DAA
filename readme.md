@@ -1,26 +1,29 @@
 <p align="center">
-  <img src="https://github.com/SubhanRaj/DAA/blob/dev/assets/img/logo.png" width="10%" alt='KMCLU Logo'>  </p>
+  <img src="https://github.com/SahilAli8808/kmclu-placement-cell/blob/dev/assets/img/logo.png" width="10%" alt='KMCLU Logo'> 
+</p>
 <!-- Table of Contents -->
 # Experiments of Design and Analysis of Algorithms Lab (CS 551)
 <!-- Badges -->
-<a href="https://github.com/SubhanRaj/DAA/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/SubhanRaj/DAA" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/SubhanRaj/DAA" alt="last update" />
-  </a>
-  <a href="https://github.com/SubhanRaj/DAA/network/members">
-    <img src="https://img.shields.io/github/forks/SubhanRaj/DAA" alt="forks" />
-  </a>
-  <a href="https://github.com/SubhanRaj/DAA/stargazers">
-    <img src="https://img.shields.io/github/stars/SubhanRaj/DAA" alt="stars" />
-  </a>
-  <a href="https://github.com/SubhanRaj/DAA/issues/">
-    <img src="https://img.shields.io/github/issues/SubhanRaj/DAA" alt="open issues" />
-  </a>
-  <a href="https://github.com/SubhanRaj/DAA/blob/main/licence">
-    <img src="https://img.shields.io/github/license/SubhanRaj/DAA" alt="license" />
-  </a>
+<p>
+    <a href="https://github.com/SubhanRaj/DAA/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/SubhanRaj/DAA" alt="contributors" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/github/last-commit/SubhanRaj/DAA" alt="last update" />
+    </a>
+    <a href="https://github.com/SubhanRaj/DAA/network/members">
+        <img src="https://img.shields.io/github/forks/SubhanRaj/DAA" alt="forks" />
+    </a>
+    <a href="https://github.com/SubhanRaj/DAA/stargazers">
+        <img src="https://img.shields.io/github/stars/SubhanRaj/DAA" alt="stars" />
+    </a>
+    <a href="https://github.com/SubhanRaj/DAA/issues/">
+        <img src="https://img.shields.io/github/issues/SubhanRaj/DAA" alt="open issues" />
+    </a>
+    <a href="https://github.com/SubhanRaj/DAA/blob/main/licence">
+        <img src="https://img.shields.io/github/license/SubhanRaj/DAA" alt="license" />
+    </a>
+</p>
 ## List of Programs
 
 1. Implementation of Quick Sort
