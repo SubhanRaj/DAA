@@ -54,7 +54,7 @@
 7. [x] Implementation of an application of Dynamic Programming
 8. [x] Implementation of an Application of Greedy Algorithm
 9. [x] Implementation of Minimum Spanning Tree Algorithm
-10. [ ] Implementation of Single-Source Shortest Path Algorithm (Bellman-Ford Algorithm)
+10. [x] Implementation of Single-Source Shortest Path Algorithm (Bellman-Ford Algorithm)
 11. [x] Implementation of Single-Pair Shortest Path Algorithm (Dijkstra's Algorithm)
 12. [x] Implementation of All-Pair Shortest Path Algorithm (Floyd-Warshall Algorithm) 
 13. [ ] Implementation of String Matching Algorithm
