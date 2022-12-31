@@ -47,7 +47,7 @@
 
 1. [x] mplementation of Quick Sort
 2. [x] Implementation of Merge Sort
-3. [ ] Implementation of Heap Sort
+3. [x] Implementation of Heap Sort
 4. [x] Implementation of Linear-Time Sorting Algorithm
 5. [x] Implementation of Red-Black Tree Operations
 6. [x] Implementation of Bionomial Heap Operations
