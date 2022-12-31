@@ -18,7 +18,7 @@
 
 ## Checklist
 
-1. [x] ~~Implementation of Quick Sort~~
+1. [x] mplementation of Quick Sort
 2. [x] Implementation of Merge Sort
 3. [ ] Implementation of Heap Sort
 4. [x] Implementation of Linear-Time Sorting Algorithm
