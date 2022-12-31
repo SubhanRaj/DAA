@@ -4,22 +4,22 @@
 # Experiments of Design and Analysis of Algorithms Lab (CS 551)
 <!-- Badges -->
 <a href="https://github.com/SubhanRaj/DAA/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/SahilAli8808/kmclu-placement-cell" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/SubhanRaj/DAA" alt="contributors" />
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/SubhanRaj/DAA" alt="last update" />
   </a>
   <a href="https://github.com/SubhanRaj/DAA/network/members">
-    <img src="https://img.shields.io/github/forks/SahilAli8808/kmclu-placement-cell" alt="forks" />
+    <img src="https://img.shields.io/github/forks/SubhanRaj/DAA" alt="forks" />
   </a>
   <a href="https://github.com/SubhanRaj/DAA/stargazers">
-    <img src="https://img.shields.io/github/stars/SahilAli8808/kmclu-placement-cell" alt="stars" />
+    <img src="https://img.shields.io/github/stars/SubhanRaj/DAA" alt="stars" />
   </a>
   <a href="https://github.com/SubhanRaj/DAA/issues/">
-    <img src="https://img.shields.io/github/issues/SahilAli8808/kmclu-placement-cell" alt="open issues" />
+    <img src="https://img.shields.io/github/issues/SubhanRaj/DAA" alt="open issues" />
   </a>
   <a href="https://github.com/SubhanRaj/DAA/blob/main/licence">
-    <img src="https://img.shields.io/github/license/SahilAli8808/kmclu-placement-cell" alt="license" />
+    <img src="https://img.shields.io/github/license/SubhanRaj/DAA" alt="license" />
   </a>
 ## List of Programs
 
