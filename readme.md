@@ -41,7 +41,8 @@
 10. Implementation of Single-Source Shortest Path Algorithm (Bellman-Ford Algorithm)
 11. Implementation of Single-Pair Shortest Path Algorithm (Dijkstra's Algorithm)
 12. Implementation of All-Pair Shortest Path Algorithm (Floyd-Warshall Algorithm)
-13. Implementation of String Matching Algorithm
+13. Implementation of Native String Matching Algorithm
+14. Implementation of Rabin-Karp String Matching Algorithm
 
 ## Checklist
 
@@ -57,4 +58,5 @@
 10. [x] Implementation of Single-Source Shortest Path Algorithm (Bellman-Ford Algorithm)
 11. [x] Implementation of Single-Pair Shortest Path Algorithm (Dijkstra's Algorithm)
 12. [x] Implementation of All-Pair Shortest Path Algorithm (Floyd-Warshall Algorithm) 
-13. [ ] Implementation of String Matching Algorithm
+13. [x] Implementation of Native String Matching Algorithm
+14. [ ] Implementation of Rabin-Karp String Matching Algorithm
