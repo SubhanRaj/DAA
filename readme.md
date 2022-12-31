@@ -2,7 +2,9 @@
   <img src="https://github.com/SahilAli8808/kmclu-placement-cell/blob/dev/assets/img/logo.png" width="10%" alt='KMCLU Logo'> 
 </p>
 <!-- Table of Contents -->
+
 # Experiments of Design and Analysis of Algorithms Lab (CS 551)
+
 <!-- Badges -->
 <p>
     <a href="https://github.com/SubhanRaj/DAA/graphs/contributors">
@@ -24,6 +26,7 @@
         <img src="https://img.shields.io/github/license/SubhanRaj/DAA" alt="license" />
     </a>
 </p>
+
 ## List of Programs
 
 1. Implementation of Quick Sort
