@@ -3,7 +3,7 @@
 </p>
 <!-- Table of Contents -->
 
-# Experiments of Design and Analysis of Algorithms Lab (CS 551)
+# Design and Analysis of Algorithms Lab (CS 551)
 
 <!-- Badges -->
 <p>
