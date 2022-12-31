@@ -59,4 +59,4 @@
 11. [x] Implementation of Single-Pair Shortest Path Algorithm (Dijkstra's Algorithm)
 12. [x] Implementation of All-Pair Shortest Path Algorithm (Floyd-Warshall Algorithm) 
 13. [x] Implementation of Native String Matching Algorithm
-14. [ ] Implementation of Rabin-Karp String Matching Algorithm
+14. [x] Implementation of Rabin-Karp String Matching Algorithm
